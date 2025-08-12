@@ -1,0 +1,101 @@
+name,location,online_order,book_table,rate,votes,approx_cost(for two people),cuisines,listed_in(type)
+Restaurant_1,HSR Layout,No,Yes,4.2,2751,700,Desserts,Fine Dining
+Restaurant_2,Jayanagar,Yes,Yes,4.3,1021,600,Mexican,Cafes
+Restaurant_3,Whitefield,Yes,No,3.0,1216,500,Mexican,Quick Bites
+Restaurant_4,Jayanagar,No,Yes,3.9,4979,300,Chinese,Cafes
+Restaurant_5,Jayanagar,No,Yes,4.2,2824,300,Italian,Quick Bites
+Restaurant_6,Koramangala,No,Yes,3.1,2032,1000,North Indian,Quick Bites
+Restaurant_7,Whitefield,Yes,No,2.9,903,400,Italian,Fine Dining
+Restaurant_8,Whitefield,No,No,5.0,4196,500,Chinese,Cafes
+Restaurant_9,Whitefield,Yes,No,3.8,3786,600,Mexican,Fine Dining
+Restaurant_10,Jayanagar,Yes,Yes,3.2,3819,700,Italian,Cafes
+Restaurant_11,HSR Layout,No,Yes,5.0,624,700,Mexican,Cafes
+Restaurant_12,Whitefield,No,No,4.9,3311,600,Desserts,Casual Dining
+Restaurant_13,Jayanagar,Yes,No,3.9,1198,900,North Indian,Cafes
+Restaurant_14,Koramangala,Yes,No,4.7,1765,800,Desserts,Fine Dining
+Restaurant_15,HSR Layout,No,No,3.0,4827,400,Mexican,Quick Bites
+Restaurant_16,Koramangala,No,Yes,3.2,4983,700,Mexican,Cafes
+Restaurant_17,HSR Layout,No,No,4.3,3904,500,South Indian,Casual Dining
+Restaurant_18,Jayanagar,Yes,Yes,4.6,2541,400,South Indian,Fine Dining
+Restaurant_19,Indiranagar,Yes,No,4.6,2710,500,Desserts,Cafes
+Restaurant_20,HSR Layout,Yes,Yes,3.5,3174,900,Fast Food,Fine Dining
+Restaurant_21,Koramangala,Yes,No,4.7,3101,300,Desserts,Casual Dining
+Restaurant_22,Jayanagar,Yes,No,4.6,54,400,South Indian,Casual Dining
+Restaurant_23,HSR Layout,Yes,No,4.8,4919,1000,Mexican,Fine Dining
+Restaurant_24,Indiranagar,No,No,4.5,926,700,Chinese,Cafes
+Restaurant_25,Indiranagar,Yes,Yes,4.2,1041,400,Desserts,Quick Bites
+Restaurant_26,Whitefield,Yes,No,4.0,4192,400,Mexican,Casual Dining
+Restaurant_27,Whitefield,Yes,Yes,3.4,4414,400,Chinese,Cafes
+Restaurant_28,Koramangala,No,Yes,4.9,4515,800,Chinese,Cafes
+Restaurant_29,HSR Layout,Yes,Yes,4.9,685,400,South Indian,Quick Bites
+Restaurant_30,HSR Layout,Yes,Yes,3.2,1743,500,Desserts,Casual Dining
+Restaurant_31,Whitefield,No,No,3.3,1732,300,Italian,Casual Dining
+Restaurant_32,HSR Layout,Yes,Yes,3.7,4802,900,North Indian,Cafes
+Restaurant_33,HSR Layout,Yes,Yes,3.6,169,600,South Indian,Cafes
+Restaurant_34,Indiranagar,Yes,Yes,5.0,880,400,South Indian,Quick Bites
+Restaurant_35,Whitefield,Yes,No,2.9,3725,700,Italian,Quick Bites
+Restaurant_36,Jayanagar,Yes,No,2.5,1419,400,North Indian,Casual Dining
+Restaurant_37,Whitefield,No,No,3.7,790,700,Mexican,Fine Dining
+Restaurant_38,Jayanagar,No,No,2.9,166,500,Fast Food,Casual Dining
+Restaurant_39,Indiranagar,No,Yes,3.4,2888,700,Desserts,Cafes
+Restaurant_40,Koramangala,Yes,Yes,4.4,1200,1000,Fast Food,Casual Dining
+Restaurant_41,HSR Layout,Yes,No,4.3,1981,600,Mexican,Fine Dining
+Restaurant_42,Indiranagar,Yes,Yes,3.3,1062,300,South Indian,Quick Bites
+Restaurant_43,HSR Layout,No,Yes,3.9,1714,700,North Indian,Fine Dining
+Restaurant_44,Koramangala,Yes,Yes,3.8,1131,700,South Indian,Fine Dining
+Restaurant_45,Koramangala,Yes,No,4.1,4779,300,Chinese,Fine Dining
+Restaurant_46,Indiranagar,No,No,3.1,562,600,South Indian,Quick Bites
+Restaurant_47,Koramangala,Yes,Yes,4.0,2899,400,South Indian,Fine Dining
+Restaurant_48,Jayanagar,No,No,4.9,609,700,Mexican,Fine Dining
+Restaurant_49,Koramangala,No,No,3.7,3722,300,Mexican,Fine Dining
+Restaurant_50,HSR Layout,No,No,4.8,4633,1000,Mexican,Cafes
+Restaurant_51,HSR Layout,Yes,No,3.6,3393,1000,Fast Food,Fine Dining
+Restaurant_52,HSR Layout,Yes,No,3.4,4120,500,Chinese,Quick Bites
+Restaurant_53,HSR Layout,Yes,Yes,4.1,4849,300,Mexican,Fine Dining
+Restaurant_54,Jayanagar,Yes,No,4.2,1520,500,North Indian,Fine Dining
+Restaurant_55,Whitefield,Yes,Yes,4.7,630,1000,Fast Food,Quick Bites
+Restaurant_56,Indiranagar,Yes,Yes,3.1,2344,600,Italian,Fine Dining
+Restaurant_57,HSR Layout,Yes,No,3.7,3197,400,North Indian,Quick Bites
+Restaurant_58,Koramangala,No,Yes,3.9,4299,300,Desserts,Fine Dining
+Restaurant_59,HSR Layout,Yes,Yes,4.4,1729,900,Desserts,Quick Bites
+Restaurant_60,Koramangala,No,Yes,2.6,3556,1000,North Indian,Fine Dining
+Restaurant_61,Koramangala,Yes,No,5.0,2794,1000,Mexican,Fine Dining
+Restaurant_62,HSR Layout,Yes,No,3.7,3406,900,Italian,Cafes
+Restaurant_63,Jayanagar,Yes,Yes,3.2,4095,800,Italian,Cafes
+Restaurant_64,Koramangala,No,No,4.7,1293,1000,Fast Food,Fine Dining
+Restaurant_65,Koramangala,No,No,4.4,3168,700,Italian,Fine Dining
+Restaurant_66,HSR Layout,No,No,4.9,2191,600,Desserts,Casual Dining
+Restaurant_67,Koramangala,No,No,3.3,3109,300,Chinese,Quick Bites
+Restaurant_68,Koramangala,Yes,Yes,3.9,4598,900,Mexican,Casual Dining
+Restaurant_69,HSR Layout,No,Yes,3.9,3009,700,Italian,Cafes
+Restaurant_70,HSR Layout,Yes,No,5.0,2315,900,Fast Food,Cafes
+Restaurant_71,Indiranagar,Yes,No,2.7,2529,300,Desserts,Cafes
+Restaurant_72,Jayanagar,No,Yes,3.3,4696,500,Chinese,Cafes
+Restaurant_73,Jayanagar,No,Yes,3.0,1685,300,South Indian,Fine Dining
+Restaurant_74,Koramangala,No,No,3.2,1807,800,South Indian,Cafes
+Restaurant_75,Jayanagar,No,Yes,3.7,4502,300,Chinese,Fine Dining
+Restaurant_76,Koramangala,No,No,3.4,2120,300,Desserts,Fine Dining
+Restaurant_77,Indiranagar,No,No,3.5,2899,800,Fast Food,Cafes
+Restaurant_78,HSR Layout,No,Yes,4.6,3301,600,Chinese,Cafes
+Restaurant_79,HSR Layout,No,Yes,4.8,3780,1000,Mexican,Quick Bites
+Restaurant_80,HSR Layout,Yes,No,2.7,2539,300,Mexican,Casual Dining
+Restaurant_81,Jayanagar,No,No,3.0,1681,800,South Indian,Cafes
+Restaurant_82,Indiranagar,No,Yes,4.2,2866,700,Italian,Quick Bites
+Restaurant_83,Jayanagar,Yes,No,3.4,1065,500,Fast Food,Quick Bites
+Restaurant_84,Jayanagar,No,Yes,3.1,1398,500,South Indian,Casual Dining
+Restaurant_85,Indiranagar,Yes,No,3.2,4661,300,Italian,Fine Dining
+Restaurant_86,Indiranagar,Yes,Yes,3.3,3137,600,Italian,Cafes
+Restaurant_87,Indiranagar,No,Yes,4.6,2889,600,Mexican,Casual Dining
+Restaurant_88,Indiranagar,Yes,Yes,2.8,385,700,Desserts,Cafes
+Restaurant_89,HSR Layout,Yes,No,4.3,4642,300,North Indian,Quick Bites
+Restaurant_90,Whitefield,Yes,No,3.9,945,500,Desserts,Quick Bites
+Restaurant_91,Whitefield,Yes,Yes,3.2,3596,600,North Indian,Fine Dining
+Restaurant_92,Indiranagar,No,No,3.5,901,300,Chinese,Quick Bites
+Restaurant_93,Whitefield,Yes,Yes,3.1,1737,900,Mexican,Quick Bites
+Restaurant_94,Whitefield,No,Yes,4.0,1981,600,Italian,Casual Dining
+Restaurant_95,Indiranagar,Yes,No,2.7,3796,800,Fast Food,Cafes
+Restaurant_96,Whitefield,Yes,No,2.5,2477,900,North Indian,Cafes
+Restaurant_97,Jayanagar,Yes,Yes,4.1,1618,1000,Desserts,Casual Dining
+Restaurant_98,Koramangala,Yes,No,3.0,4050,600,Italian,Fine Dining
+Restaurant_99,Koramangala,No,No,2.7,2788,500,North Indian,Cafes
+Restaurant_100,Indiranagar,No,Yes,3.5,3548,400,North Indian,Quick Bites
